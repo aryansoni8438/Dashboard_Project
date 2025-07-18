@@ -17,5 +17,5 @@ DAX for custom KPIs and measures
 📌 Insights
 This project demonstrates how data visualization can help e-commerce businesses like Blinkit improve decision-making by understanding performance metrics, identifying inefficiencies, and tracking customer behavior.
 
-
+![Dashboard Screenshot](ScreenshotDashboard.png)
 
